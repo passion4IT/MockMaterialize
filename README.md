@@ -5,3 +5,4 @@ This is very simple react app which has been created with purpose to see the out
 - clone the repo
 - Install node_modules: npm install
 - start react app: npm start
+- start modifying app with Materializecss component.

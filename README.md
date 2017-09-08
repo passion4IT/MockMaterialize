@@ -1,4 +1,4 @@
-This is very simple react app which has been created with purpose to see the output of Materializecss component.
+This is very simple react app which has been created with purpose to see the output of Materializecss component. For detailed information about materializecss, visit here : http://materializecss.com/
 - It will compile react components and show the output.
 
 # Instructions:
